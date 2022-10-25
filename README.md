@@ -30,7 +30,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 <>
 
 # Product Owner
-<>
+John Gallagher - L00152147
 
 # Rockstars
 <>
