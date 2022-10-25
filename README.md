@@ -103,12 +103,12 @@ Datastore for persistence
 
 # Social Contract
 # Meetings
-Stand-ups will occur on Every <<Date/Time >> during class and <<Date/Time>> using Automated bot.
+Stand-ups will occur on Every <<Wednesday/11:30-1:30>> during class and <<Thursday/12:30-1:30>> using Automated bot.
 The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
-Sprint planning will occur <<Day/time>> at the end of our sprint <in person/which tool?>.
+Sprint planning will occur <<Wednesday/11:00>> at the end of our sprint <in person>.
 Please add and update items within <<issue management tool>> a prior to the sprint planning session.
-Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
+Sprint retro will at the end of our sprint on <<Wednesday/11:15>> (timebox retro for 15 minutes, to be organised by the scrum master).
 The order that people present their sprint retro updates will be based on <<specify how you chose the order>> of those present at the meeting.
 Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated per team member every week.
 Backlog refinement will happen on <<date/time>> during our sprint.
