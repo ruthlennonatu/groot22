@@ -129,20 +129,20 @@ If are assigned a job, take ownership of it, and keep it up to date. Stick to yo
 Other Sprints will start Wednesdays at 11:00. The Scrum Master role rotates each week, the schedule is available on the on the process section slack and GitHub project board will be used for task management and planning. Each member of the team will work couple hours per week unless they are on vacation. Branching Strategy is each member will create new branch to work on and then merge back into main branch after it is checked from a member of the team.
 
 # Estimating Story Points
-The teams team's velocity is calculated by the number of story points we achieve on average in the previous sprints.
+The team's velocity is calculated by the number of story points we achieve on average in the previous sprints.
 
-The teams current story point velocity is "N/A".
+The teams current story point velocity is "10 story points per sprint".
 
 # Definition of Ready
-Story is pointed
-Enough information to start
-Acceptance criteria is defined
-Definition of Done
-Code
-Min of <<how many?>> reviewers
-Merged into main
-Deployed successfully
-Deployment Tested
-Documentation
-Reviewed, followed and executed by Reviewer
-Working solution over documentation
+Story is pointed<br/>
+Enough information to start<br/>
+Acceptance criteria is defined<br/>
+Definition of Done<br/>
+Code<br/>
+Min of 1 reviewer<br/>
+Merged into main<br/>
+Deployed successfully<br/>
+Deployment Tested<br/>
+Documentation<br/>
+Reviewed, followed and executed by Reviewer<br/>
+Working solution over documentation<br/>
