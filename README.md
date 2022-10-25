@@ -121,20 +121,7 @@ Keep your language and tone professional at all times.
 Be honest.
 
 # Communication
-Slack is the preferred method of communication.
-Communication in this order: <<list tools in preferred order>>
-If a demonstration is required use Zoom, record the session and upload to the Slack channel.
-No Slack communications between "<after 7:00>" TBD.
-Raise a problem as soon as you see it.
-Respect each other and understand differences in knowledge.
-All team documents are to be created using Markdown language and shared on GitHub.
-There are no silly questions, if you don’t understand, ask.
-Share success stories.
-Focus on the positives.
-Don’t make assumptions.
-Don’t interrupt and cut another person off while they are talking.
-Listen when someone is talking, don’t interject.
-Zero tolerance for bullying.
+Slack is our primary communication method. Slack communication can be used at any time although if it is sent later in the evening/ at night these messages may not get answered until the next day. Weekend communication is also allowed but due to people working and having other commitments not everyone will be able to answer the questions in a timely manner and therefore for numerous reasons a message sent on the weekend may not get answered until Monday. When an issue is discovered make it known ASAP. All team documents are to be created using Markdown language and shared on GitHub. If slack is unavailable for any reason throughout the duration of the project, emails will be used. No question is a silly question, everyone should feel safe to ask any questions or express any concerns problems or opinions they have. Everyone should have equal opportunity to receive help from the team and if no one can help we will work together to work out the issue. Everyone should respect and feel respected by every member of the team. When someone is speaking the rest of the team will listen. There will be no disrespect of any kind.
 
 # Agile way of working.
 If are assigned a job, take ownership of it, and keep it up to date. Stick to your agreed working patterns. Let the team know when you are late or going early. Keep JIRA board always updated. Update the Scrum Board as you progress the story i.e., don’t update at stand-up. Don't be afraid to ask for help. Don't be afraid to give constructive criticism if it is constructive. Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master. 
