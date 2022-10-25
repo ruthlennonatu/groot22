@@ -54,9 +54,8 @@ Named queries and database triggers for security
 Regex for cleansing and validation of data before sending to the database.
 
 # Useful Links
-Project Slack: <>
-GitHub: <>
-Jira: <>
+Project Slack: https://app.slack.com/client/T0419S2HV9B/C047QMHHA72
+GitHub: https://github.com/ruthlennonatu/groot22 
 
 # More Information
 For more information visit our other sections
@@ -138,20 +137,9 @@ Listen when someone is talking, don’t interject.
 Zero tolerance for bullying.
 
 # Agile way of working.
-If are assigned a job, take ownership of it and keep it up to date.
-Stick to your agreed working patterns. Let the team know when you are late or going early.
-Keep JIRA board updated at all times.
-Update the Scrum Board as you progress the story i.e. don’t update at standup.
-Don't be afraid to ask for help.
-Don't be afraid to give constructive criticism, as long as it is constructive.
-Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master.
-Other
-Sprints will start <<date/time>>.
-The Scrum Master role rotates each week, the schedule is available on the on the process section
-<<Tool>> will be used for task management and planning.
-Each member of the team will work <<hours>> per week, unless they are on vacation.
-Branching Strategy
-<<list the branches>>
+If are assigned a job, take ownership of it, and keep it up to date. Stick to your agreed working patterns. Let the team know when you are late or going early. Keep JIRA board always updated. Update the Scrum Board as you progress the story i.e., don’t update at stand-up. Don't be afraid to ask for help. Don't be afraid to give constructive criticism if it is constructive. Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master. 
+
+Other Sprints will start Wednesdays at 11:00. The Scrum Master role rotates each week, the schedule is available on the on the process section slack and GitHub project board will be used for task management and planning. Each member of the team will work couple hours per week unless they are on vacation. Branching Strategy is each member will create new branch to work on and then merge back into main branch after it is checked from a member of the team.
 
 # Estimating Story Points
 The teams team's velocity is calculated by the number of story points we achieve on average in the previous sprints.
