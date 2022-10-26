@@ -47,11 +47,7 @@ Includes at least one self developed api and one webservice
 To be run over <specify platform>
 
 # Frameworks
-Database
-Database persistence technology
-Define the buisness Requirements
-Named queries and database triggers for security
-Regex for cleansing and validation of data before sending to the database.
+We will be using Visual Studio Code to create our project. We will be using Java to code the project and will be using Firebase as the database to store the data.
 
 # Useful Links
 Project Slack: https://app.slack.com/client/T0419S2HV9B/C047QMHHA72
