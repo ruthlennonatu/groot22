@@ -27,7 +27,14 @@ This is the online repository for the DevOps Assignment.
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-<>
+Week 1 Ciaran = week 5
+Week 2 Jakub = week 6
+Week 3 Paul = week 7
+Week 4 William = week 8
+Week 5 Mark = week 9
+Week 6 Luke = week 10
+Week 7 John = week 11
+Week 8 You = week 12
 
 # Product Owner
 John Gallagher - L00152147
