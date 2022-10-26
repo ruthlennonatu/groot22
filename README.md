@@ -41,10 +41,7 @@ John Gallagher - L00152147
 Refer to BB for deadlines
 
 # Project Specification
-Clean and simple design
-User access levels (client, administrator)
-Includes at least one self developed api and one webservice
-To be run over <specify platform>
+The project will be a simple yet effective, clear, and concise design at the user level (customers, admins) 
 
 # Frameworks
 We will be using Visual Studio Code to create our project. We will be using Java to code the project and will be using Firebase as the database to store the data.
