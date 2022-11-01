@@ -23,4 +23,9 @@ public class CustomerLogin{
      * else
      * Both invalid    
      */
+
+//    if(email.equals )
+//    {
+//
+//    }
 }
