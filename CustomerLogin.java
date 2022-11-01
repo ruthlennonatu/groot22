@@ -1,30 +1,38 @@
 import java.util.*;
 
-public class CustomerLogin{
+public class CustomerLogin {
+    public static void main(String[] args) {
 
-    public static void main(String[] args){
         String email="";
         String password="";
-    
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter email address: ");
-        email = sc.nextLine();
-    
+        email = sc.next();
+
         System.out.println("Enter password: ");
-        password = sc.nextLine();
-    
-        System.out.println(email);
+        password = sc.next();
+
         // check if credentials are valid
         /*
          * if username is equal to username and the password is equal to password
          * success
-         * else if username is not equal to username  
+         * else if username is not equal to username
          * Invalid username
          * else if password is not equal to password
          * Invalid password
          * else
-         * Both invalid    
+         * Both invalid
          */
+
+        if (email.equals("groot22@atu.ie") & password.equals("letmein")) {
+            System.out.println("success");
+        } else if (!email.equals("groot22@atu.ie") & password.equals("letmein")) {
+            System.out.println("Invalid email");
+        } else if (email.equals("groot22@atu.ie") & !password.equals("letmein")) {
+            System.out.println("Invalid password");
+        } else {
+            System.out.println("both invalid");
+        }
     }
-    
 }
