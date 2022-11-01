@@ -3,8 +3,8 @@ import java.util.*;
 public class CustomerLogin {
     public static void main(String[] args) {
 
-        String email;
-        String password;
+        String email="";
+        String password="";
 
         String testPassword = "letmein";
         String testEmail = "email@.ie";
