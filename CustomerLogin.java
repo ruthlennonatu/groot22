@@ -6,6 +6,9 @@ public class CustomerLogin {
         String email;
         String password;
 
+        String testPassword = "letmein";
+        String testEmail = "email@.ie";
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter email address: ");
         email = sc.next();
@@ -25,11 +28,11 @@ public class CustomerLogin {
          * Both invalid
          */
 
-        if (email.equals("groot22@atu.ie") & password.equals("letmein")) {
+        if (email.equals(testEmail) & password.equals(testPassword)) {
             System.out.println("success");
-        } else if (!email.equals("groot22@atu.ie") & password.equals("letmein")) {
+        } else if (!email.equals(testEmail) & password.equals(testPassword)) {
             System.out.println("Invalid email");
-        } else if (email.equals("groot22@atu.ie") & !password.equals("letmein")) {
+        } else if (email.equals(testEmail) & !password.equals(testPassword)) {
             System.out.println("Invalid password");
         } else {
             System.out.println("both invalid");
