@@ -1,0 +1,10 @@
+insert into Grant (GrantID, Payout) values (1, '$5.87');
+insert into Grant (GrantID, Payout) values (2, '$2.23');
+insert into Grant (GrantID, Payout) values (3, '$3.24');
+insert into Grant (GrantID, Payout) values (4, '$3.59');
+insert into Grant (GrantID, Payout) values (5, '$6.60');
+insert into Grant (GrantID, Payout) values (6, '$6.42');
+insert into Grant (GrantID, Payout) values (7, '$6.00');
+insert into Grant (GrantID, Payout) values (8, '$2.14');
+insert into Grant (GrantID, Payout) values (9, '$6.63');
+insert into Grant (GrantID, Payout) values (10, '$2.18');
