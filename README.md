@@ -27,14 +27,14 @@ This is the online repository for the DevOps Assignment.
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-Week 1 Ciaran = week 5
-Week 2 Jakub = week 6
-Week 3 Paul = week 7
-Week 4 William = week 8
-Week 5 Mark = week 9
-Week 6 Luke = week 10
-Week 7 John = week 11
-Week 8 You = week 12
+Week 1 Ciaran = week 5 <br>
+Week 2 Jakub = week 6 <br>
+Week 3 Paul = week 7 <br>
+Week 4 William = week 8 <br>
+Week 5 Mark = week 9 <br>
+Week 6 Luke = week 10 <br>
+Week 7 John = week 11 <br>
+Week 8 You = week 12 <br>
 
 # Product Owner
 John Gallagher - L00152147
@@ -75,6 +75,17 @@ Project Log	Team log for the project
 
 # Risk Register
 These are the current Risks on the project, re-aligned on a weekly basis
+
+Team members get sick and are unable to attend.
+Team members get absent. 
+Team undecided about the design approach.
+Team is undecided about what programming language to use.
+Team is undecided about what tools to use.
+Finding the proper database to store information.
+Connecting the database properly to the designed app.
+Ensuring app security by preventing sql injections etc.
+Ensuring that app is robust by checking all the input fields.
+Team cannot decide on proper app functionality.
 
 
 # Tenants of Design
