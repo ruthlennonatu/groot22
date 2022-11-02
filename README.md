@@ -40,7 +40,7 @@ Week 8 You = week 12 <br>
 John Gallagher - L00152147
 
 # Rockstars
-<>
+<>Ciarán Aitken, Luke Cassidy, Mark Houstan, Paul Buchanan, William Browne, You Pengcheng
 <>
 <>
 
