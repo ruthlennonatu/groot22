@@ -10,5 +10,11 @@ CREATE TABLE Customer (
 
 CREATE TABLE Grants (
     GrantID int,
-	Payout money, 
+	Payout money
+);
+
+CREATE TABLE GrantStatus (
+    GrantID int,
+	CustomerID,
+    grantApprovale varchar(50)
 );
