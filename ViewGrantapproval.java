@@ -3,15 +3,32 @@ import java.util.Scanner;
 public class ViewGrantapproval {
     public static void main(String[] args) {
 
-        Scanner reader = new Scanner(System.in); // Reading from System.in
-        System.out.println("Enter your grant id:");
-        int grantId = reader.nextInt(); // Scans the next token of the input as an int.
+        try {
+            Scanner sc = new Scanner(System.in);
+            Connection conn = DriverManager.getConnection("jdbc:sqlite:D:\\Customer.SQL");
+            System.out.print("Enter a grant id: ");
+            int custId = sc.nextInt();
 
-        // sql line to revice the grant from the db to check it status
-        System.out.println("SELCT * FROM GrantStatus where id =" + grantId);
+            String loginQuery = "Select * from GrantStatus where CusomterID = ?";
 
-        // once finished
-        reader.close();
+            PreparedStatement query = conn.prepareStatement(loginQuery);
+
+            query.setString(1, custId);
+
+            ResultSet result = query.executeQuery();
+            System.out.println(result.getStatement().toString());
+
+            // close prepared statement
+            query.close();
+
+            result.close();
+
+            // close connection
+            conn.close();
+        } catch (SQLException e) {
+            // error handling & print error message
+            System.out.println("Error : " + e.getMessage());
+        }
     }
 
 }
