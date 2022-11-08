@@ -8,7 +8,7 @@ public class ViewGrantapproval {
         int grantId = reader.nextInt(); // Scans the next token of the input as an int.
 
         // sql line to revice the grant from the db to check it status
-        System.out.println("SELCT * FROM Grants where id =" + grantId);
+        System.out.println("SELCT * FROM GrantStatus where id =" + grantId);
 
         // once finished
         reader.close();
