@@ -1,0 +1,10 @@
+insert into Customer (CustomerID, LastName, FirstName, Email) values (1, 'Silvano', 'Rambadt', 'srambadt0@istockphoto.com');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (2, 'Gus', 'Nutbeam', 'gnutbeam1@princeton.edu');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (3, 'Katey', 'Heinzler', 'kheinzler2@utexas.edu');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (4, 'Joyce', 'Harback', 'jharback3@plala.or.jp');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (5, 'Antonetta', 'Farnorth', 'afarnorth4@barnesandnoble.com');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (6, 'Edy', 'Risman', 'erisman5@stanford.edu');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (7, 'Randal', 'Rowatt', 'rrowatt6@dailymail.co.uk');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (8, 'Nancee', 'Brunskill', 'nbrunskill7@youku.com');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (9, 'Goldina', 'Barter', 'gbarter8@a8.net');
+insert into Customer (CustomerID, LastName, FirstName, Email) values (10, 'Amalita', 'Strute', 'astrute9@amazon.co.jp');
