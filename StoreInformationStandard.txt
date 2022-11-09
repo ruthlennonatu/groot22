@@ -1,0 +1,8 @@
+Only Personal information about the customer that should be stored are:
+Name
+Email
+Grant Applied For
+Approval Status
+... Can be Updated as Needed if more infomration is required to be stored.
+
+This information is documented so that in the event of a data breach the information that may have been stolen is already known and customers can be informed.
