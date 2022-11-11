@@ -1,0 +1,17 @@
+Potential Testing tools:
+Selenium (https://www.selenium.dev/)
+ - Open Source
+ - Java support
+ - Multi-Browser support
+ - Cross-platform support
+ - Implementation
+ 
+Spotbugs (https://spotbugs.github.io/)
+ - Open Source
+ - Easy implementation
+ 
+JUnit (https://junit.org/junit5/)
+ - Open Source
+ - Easy implementation
+ - Test runners
+ - Write code faster
