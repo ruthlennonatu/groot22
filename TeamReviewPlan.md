@@ -60,18 +60,23 @@ Overall communication as a team, we need to let each other know if we cant go in
 <li >What would you improve? </li>
 
 <h2>Ciaran</h2>
-<p></p>
+<p>I created a simple view order java file taht just reads in the customers order number
+Then i updated the TeamReviewPlan.md to update info for review this week</p>
 
-<li> What went well? </li>
+<li> What went well? 
+I found it easier commiting and pushing to git hub. </li>
 
-<li >What went bad? </li>
+<li >What went bad? 
+Was hard to know what needed to be done to progress the project</li>
 
-<li >What would you improve? </li>
+<li >What would you improve? 
+Communication with team so we can establish jobs between spints
+so we are better prepared to work on project during the week</li>
 
 <h2>William</h2>
 <p></p>
 
-<li> What went well? </li>
+<li> What went well?</li>
 
 <li >What went bad? </li>
 
