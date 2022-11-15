@@ -1,9 +1,11 @@
-public class DatabaseConnector(){
-initializeDB();
-}
+import java.sql.*;
 
-private void initializeDB() {
-        try {
+public class DatabaseConnector{
+private Statement statement;
+
+public static void main(String[] args) {
+
+   try {
             // Load the JDBC driver
             Class.forName("com.mysql.cj.jdbc.Driver");  //
 
@@ -11,13 +13,28 @@ private void initializeDB() {
 
             // Connect to a database - in this case testDB
             Connection connection = DriverManager.getConnection
-                    ("(databaselocation)", "root", "password");
+                    ("jdbc:mysql://localhost/GrootDb?serverTimezone=UTC", "root", "password");
             if (connection != null)
                 System.out.println("Database connected");
 
             // Create a statement
-            statement = connection.createStatement();
+            Statement statement = connection.createStatement();
+            String insertQuery = "insert into Customer(CustomerID, LastName, FirstName, Email) values ('1', 'Doe', 'John', 'johndoe@gmail.com')";
+            PreparedStatement preStmtInsert = connection.prepareStatement(insertQuery);
+            
+            preparedStatement.executeUpdate();
+            String queryString = "select * from Customer";
+
+            ResultSet rset = statement.executeQuery(queryString);
+            String resultString = " ";
+
         } catch (SQLException | ClassNotFoundException ex) {
             ex.printStackTrace();
+            System.out.println("Got an exception!");
         }
-    }
+
+}
+
+
+}
+
