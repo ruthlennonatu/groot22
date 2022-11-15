@@ -67,3 +67,21 @@ Overall communication as a team, we need to let each other know if we cant go in
 <li >What went bad? </li>
 
 <li >What would you improve? </li>
+
+<h2>William</h2>
+<p></p>
+
+<li> What went well? </li>
+
+<li >What went bad? </li>
+
+<li >What would you improve? </li>
+
+<h2>You</h2>
+<p></p>
+
+<li> What went well? </li>
+
+<li >What went bad? </li>
+
+<li >What would you improve? </li>
