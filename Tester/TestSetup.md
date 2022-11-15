@@ -66,3 +66,28 @@ IntelliJ: Note that I used IntelliJ IDEA community 2022.2.3 for the screenshots.
 3- In the right package in the test directory, you need to create a Java class (I suggest to use Test.java).
 
 4- In the created class, type '@Test'. Then, among the options that IntelliJ gives you, select Add 'JUnitx' to classpath.
+
+5- Write your test method in your test class. The method signature is like:
+
+@Test
+public void test<name of original method>(){
+...
+}
+    
+You can do your assertions like below:
+
+Assertions.assertTrue(f.flipEquiv(node1_1, node2_1));
+    
+These are the imports that I added:
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+    
+You can check your methods like below:
+
+Assertions.assertEquals(<Expected>,<actual>);
+Assertions.assertTrue(<actual>);
+    
+For running your unit tests, right-click on the test and click on Run .
+    
+<h1> If that didn't help refer to this link <a href="https://stackoverflow.com/questions/8751553/how-to-write-a-unit-test">here</a> </h1>
