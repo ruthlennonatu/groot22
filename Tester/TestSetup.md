@@ -28,7 +28,7 @@ public class Math {
 
 7- Click OK.
 
-8- Complete your test class like this. Example adding 7 & 10, result should be 17.:
+8- Complete your test class like this. Example adding 7 & 10, result should be 17. Also my example of the JUnit class is pictured below:
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -44,6 +44,14 @@ public class MathTest {
         Assert.assertEquals(17, math.add());
     }
 }
+![image](https://user-images.githubusercontent.com/115587796/202017056-54e8e8b8-445d-4228-abf6-e03f1e2f4d80.png)
+
+
+![junit](https://user-images.githubusercontent.com/115587796/202016718-094d5de0-f920-4340-9a61-175137e8282a.PNG)
+
+
+![successtest](https://user-images.githubusercontent.com/115587796/202017102-4888ab1d-bf0f-41e4-ae63-b2cce52c309d.PNG)
+
 
 9- Write click on your test class in package explorer and click on Run as -> JUnit Test.
 
