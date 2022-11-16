@@ -41,13 +41,18 @@ Overall communication as a team, we need to let each other know if we cant go in
 
 
 <h2>Mark</h2>
-<p></p>
+<p>I created the enter customer information text. 
+I created the website
+I acknowledged johns code to send an email when a grant is approved and made a class to call this function when a grant is approved while also changing the status of the grant in the database
+Created the document containing the information about the information standards of what can and should be stored. And also, what information we currently store in case of a data breach so we can be transparent with the customers and work on fixing the issue as fast as possible.
+</p>
 
 <li> What went well? </li>
-
+Working as a team
 <li >What went bad? </li>
-
+Figuring out what to do and pushing to github
 <li >What would you improve? </li>
+How well the project board is used and how we layout the level of difficulty/time an issue will take to complete.
 
 <h2>Jakub</h2>
 
