@@ -5,5 +5,5 @@ public class findOrder {
 		
 		Scanner scan = new Scanner (System.in);
 	
-		System.out.println("Enter the your #Order ID.");
+		System.out.println("Enter the your #Order ID");
 		int orderID = scan.nextInt();
