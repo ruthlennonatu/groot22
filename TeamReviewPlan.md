@@ -19,7 +19,7 @@ We could be a bit more organised with the repository, everything is clumped toge
 <h2>Paul</h2>
 <p>I created the database with tables customers, grants and grant status also had values in txt file for customers and grant
 I helped john on his part for the user credentials check if credentials are valid
-I created a java file to check the grant statues and connected to the database that Luke have already created and pull from table just reusing code but different SQL command.</p>
+I created a java file to check the grant statues and connected to the database that Luke have already created and pull from table just reusing code but different SQL command.i created GrootMoneyExchange which takes in dollars and covents to euro and i also added two junit test to test if it correct and working</p>
 
 <li>	What went well? </li>
 Our team meeting as if anyone needs help can get it and information is clear then between all members of the team
