@@ -30,7 +30,8 @@ Knowledge of how to be better with GitHub and all commands and branching would h
 
 <h2>Luke</h2>
 <p>I created a java file which connects to the database
-I improved the database by creating data in the tables</p>
+I improved the database by creating data in the tables
+I added code to push and from data from the tables and corrected errors in sql file</p>
 
 <li> What went well? </li>
 Creating of the database and connecting it to the java file
