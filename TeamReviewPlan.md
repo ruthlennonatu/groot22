@@ -46,12 +46,14 @@ Overall communication as a team, we need to let each other know if we cant go in
 I created the website
 I acknowledged johns code to send an email when a grant is approved and made a class to call this function when a grant is approved while also changing the status of the grant in the database
 Created the document containing the information about the information standards of what can and should be stored. And also, what information we currently store in case of a data breach so we can be transparent with the customers and work on fixing the issue as fast as possible.
+I created a text file to discuss java documentation and useful links for research on how to document java files. 
+I made my changes to the TeamReviewPlan.md file with documenting what I have done and what went well etc.
 </p>
 
 <li> What went well? </li>
-Working as a team
+Working as a team and having out informative meetings to clear up in issues
 <li >What went bad? </li>
-Figuring out what to do and pushing to github
+Figuring out what to do and pushing to github as each week there is a new issue but it always gets sorted
 <li >What would you improve? </li>
 How well the project board is used and how we layout the level of difficulty/time an issue will take to complete.
 
