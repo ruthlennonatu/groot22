@@ -1,0 +1,16 @@
+Automated testing
+This implies that developers tend to write unit tests to ensure that the code performs as intended, while quality experts and product owners construct automated UI tests to ensure that the end-to-end user experience is validated. The team manually scans various application regions for problems during exploratory testing sessions, which are organised by quality practitioners.
+Running automated tests as early and frequently as possible within the CI/CD pipeline is a DevOps best practise. As part of this, automated UI tests are done in real-world settings to proactively look for user experience problems. Today's apps depend on several services with many moving components, therefore by running tests in production you may perform synthetic transaction monitoring and find problems with third-party services before your users do.
+Getting started 
+There is no one-size-fits-all solution but here are some important things to consider when defining a test automation strategy for your team: 
+You should invest more in test automation as the frequency of releases increases, especially for end-to-end tests that should be conducted before every deployment. If you don't have a regular release cycle and want to speed it up, you may start by increasing the coverage of your unit tests and developing straightforward automated UI smoke tests to run a brief sanity check after each build. The time it takes to check a release for regressions can then be steadily decreased by investing in the development of additional automated end-to-end tests.
+The capacity of your team to consistently produce high-quality software will be greatly enhanced using modern test automation tools. Consider factors such as ease of creating tests, dependability, the requirement for maintenance, and integration with your CI/CD stack when selecting testing solutions.
+It's likely that your team already has a set release cycle and testing procedures if you work on a project with a large client base and an established codebase. It's crucial to incorporate test automation as a crucial component of pipeline automation as your team transitions to continuous integration or complete CI/CD. Fast feedback and delivery cannot be maintained without automated testing early in the development process.
+Creating automated tests is a challenge, but often it’s the lack of pristine environments with test data that prevents teams from adopting test automation earlier in the CI/CD pipeline. Therefore, it is important to have a team discussion early about the testing strategy and commit to creating the necessary testing infrastructure.
+
+
+The benefits of It for dev ops
+The benefits of automated testing in Devops are speed without sacrificing quality, Improved team collaboration, Reliability, Scale, Security, Increased customer happiness. (Atlassian 2022) 
+
+Reference 
+Atlassian (2022) DevOps Test Automation [online], Atlassian, available: https://www.atlassian.com/devops/devops-tools/test-automation [accessed 
