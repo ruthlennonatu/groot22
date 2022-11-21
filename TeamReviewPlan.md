@@ -82,13 +82,18 @@ Communication with team so we can establish jobs between spints
 so we are better prepared to work on project during the week</li>
 
 <h2>William</h2>
-<p></p>
+<p>I created a java file that allows customers to select what payment method they wish to
+proceed with. I also created a file with an automated response to send to a customer if their
+grant application is rejected</p>
 
-<li> What went well?</li>
+<li> What went well?
+I learned how commands on git to push to github work and know how to do it efficiently</li>
 
-<li >What went bad? </li>
+<li >What went bad? 
+Accidentally pushed to wrong section but managed to delete and repush file without any issues</li>
 
-<li >What would you improve? </li>
+<li >What would you improve? 
+Better understanding of what issues are critical and the overall progress of the project more elaborated on in the sprints and team meetings</li>
 
 <h2>You</h2>
 <p></p>
