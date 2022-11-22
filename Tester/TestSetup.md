@@ -28,7 +28,7 @@ public class Math {
 
 7- Click OK.
 
-8- Complete your test class like this. Example adding 7 & 10, result should be 17.:
+8- Complete your test class like this. Example adding 7 & 10, result should be 17. Also my example of the JUnit class is pictured below:
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -44,6 +44,14 @@ public class MathTest {
         Assert.assertEquals(17, math.add());
     }
 }
+![image](https://user-images.githubusercontent.com/115587796/202017056-54e8e8b8-445d-4228-abf6-e03f1e2f4d80.png)
+
+
+![junit](https://user-images.githubusercontent.com/115587796/202016718-094d5de0-f920-4340-9a61-175137e8282a.PNG)
+
+
+![successtest](https://user-images.githubusercontent.com/115587796/202017102-4888ab1d-bf0f-41e4-ae63-b2cce52c309d.PNG)
+
 
 9- Write click on your test class in package explorer and click on Run as -> JUnit Test.
 
@@ -58,3 +66,28 @@ IntelliJ: Note that I used IntelliJ IDEA community 2022.2.3 for the screenshots.
 3- In the right package in the test directory, you need to create a Java class (I suggest to use Test.java).
 
 4- In the created class, type '@Test'. Then, among the options that IntelliJ gives you, select Add 'JUnitx' to classpath.
+
+5- Write your test method in your test class. The method signature is like:
+
+@Test
+public void test<name of original method>(){
+...
+}
+    
+You can do your assertions like below:
+
+Assertions.assertTrue(f.flipEquiv(node1_1, node2_1));
+    
+These are the imports that I added:
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+    
+You can check your methods like below:
+
+Assertions.assertEquals(<Expected>,<actual>);
+Assertions.assertTrue(<actual>);
+    
+For running your unit tests, right-click on the test and click on Run .
+    
+<h1> If that didn't help refer to this link <a href="https://stackoverflow.com/questions/8751553/how-to-write-a-unit-test">here</a> </h1>

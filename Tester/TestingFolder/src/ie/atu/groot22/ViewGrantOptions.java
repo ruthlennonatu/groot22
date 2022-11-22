@@ -1,5 +1,7 @@
 package ie.atu.groot22;
 
+import ie.atu.testers;
+
 import java.util.Scanner;
 
 public class ViewGrantOptions{
@@ -14,11 +16,19 @@ public class ViewGrantOptions{
         System.out.println("*******************************");
         System.out.print("Enter an option from 1-5: ");
         int input = sc.nextInt();
+
+
+        getOption(input);
+    }
+
+    static String getOption(int input){
+=======
         sc.close();
         getOption(input);
     }
 
     public static String getOption(int input){
+
 
         switch(input){
             case 1:
