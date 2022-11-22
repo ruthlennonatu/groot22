@@ -1,0 +1,12 @@
+import java.util.List
+
+public class CancellOrder{
+    public static void main(String[] args){
+        int orders[] = {};
+        Scanner scan = new Scanner (System.in);
+	
+		System.out.println("Enter the your #Order ID.");
+		int orderID = scan.nextInt();
+        orders.remove(orderID);
+    }
+}
