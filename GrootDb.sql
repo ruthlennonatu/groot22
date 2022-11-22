@@ -11,18 +11,18 @@ CREATE TABLE Customer (
 CREATE TABLE Grants (
     GrantID int,
     GrantType varchar(255),
-	Payout money
+	Payout int
 );
 
 CREATE TABLE GrantStatus (
     GrantID int,
-	CustomerID,
+	CustomerID int,
     grantApprovale varchar(50)
 );
 
 CREATE TABLE Users (
     UserID int,
-	userName
+	userName varchar(255)
 );
 
 insert into Customer(CustomerID, LastName, FirstName, Email) values ('1', 'Doe', 'John', 'johndoe@gmail.com');
