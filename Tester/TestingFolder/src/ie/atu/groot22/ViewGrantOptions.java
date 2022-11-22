@@ -1,4 +1,4 @@
-package src.ie.atu.groot22;
+package ie.atu.groot22;
 
 import java.util.Scanner;
 
