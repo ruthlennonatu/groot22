@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>groot22</name>
+	<name>Tester</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< Updated upstream
 	</buildSpec>
 	<natures>
 	</natures>
 	<filteredResources>
 		<filter>
-
+			<id>1669145936672</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
@@ -19,4 +20,15 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+>>>>>>> Stashed changes
 </projectDescription>

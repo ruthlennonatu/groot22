@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
+
 	<name>Tester</name>
-=======
+
 	<name>TesterProject</name>
->>>>>>> a1b1536e5f2923286eee77643f03237b5e169935
-	<comment></comment>
+
+
+
+<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
+
+
 	</buildSpec>
 	<natures>
 	</natures>
@@ -26,6 +29,9 @@
 	<filteredResources>
 		<filter>
 			<id>1668540358400</id>
+=======
+
+
 			<name></name>
 			<type>30</type>
 			<matcher>
@@ -34,5 +40,10 @@
 			</matcher>
 		</filter>
 	</filteredResources>
->>>>>>> a1b1536e5f2923286eee77643f03237b5e169935
+
+
+=======
+
+
+
 </projectDescription>

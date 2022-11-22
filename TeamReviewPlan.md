@@ -19,7 +19,11 @@ We could be a bit more organised with the repository, everything is clumped toge
 <h2>Paul</h2>
 <p>I created the database with tables customers, grants and grant status also had values in txt file for customers and grant
 I helped john on his part for the user credentials check if credentials are valid
+
 I created a java file to check the grant statues and connected to the database that Luke have already created and pull from table just reusing code but different SQL command.i created GrootMoneyExchange which takes in dollars and covents to euro and i also added two junit test to test if it correct and working</p>
+
+I created a java file to check the grant statues and connected to the database that Luke have already created and pull from table just reusing code but different SQL command.</p>
+
 
 <li>	What went well? </li>
 Our team meeting as if anyone needs help can get it and information is clear then between all members of the team
@@ -30,8 +34,12 @@ Knowledge of how to be better with GitHub and all commands and branching would h
 
 <h2>Luke</h2>
 <p>I created a java file which connects to the database
+
 I improved the database by creating data in the tables
 I added code to push and from data from the tables and corrected errors in sql file</p>
+
+I improved the database by creating data in the tables</p>
+
 
 <li> What went well? </li>
 Creating of the database and connecting it to the java file
@@ -42,6 +50,7 @@ Overall communication as a team, we need to let each other know if we cant go in
 
 
 <h2>Mark</h2>
+
 <p>I created the enter customer information text. 
 I created the website
 I acknowledged johns code to send an email when a grant is approved and made a class to call this function when a grant is approved while also changing the status of the grant in the database
@@ -57,6 +66,15 @@ Figuring out what to do and pushing to github as each week there is a new issue 
 <li >What would you improve? </li>
 How well the project board is used and how we layout the level of difficulty/time an issue will take to complete.
 
+<p></p>
+
+<li> What went well? </li>
+
+<li >What went bad? </li>
+
+<li >What would you improve? </li>
+
+
 <h2>Jakub</h2>
 
 <p></p>
@@ -68,6 +86,7 @@ How well the project board is used and how we layout the level of difficulty/tim
 <li >What would you improve? </li>
 
 <h2>Ciaran</h2>
+
 <p>I created a simple view order java file taht just reads in the customers order number
 Then i updated the TeamReviewPlan.md to update info for review this week</p>
 
@@ -94,6 +113,24 @@ Accidentally pushed to wrong section but managed to delete and repush file witho
 
 <li >What would you improve? 
 Better understanding of what issues are critical and the overall progress of the project more elaborated on in the sprints and team meetings</li>
+=======
+<p></p>
+
+<li> What went well? </li>
+
+<li >What went bad? </li>
+
+<li >What would you improve? </li>
+
+<h2>William</h2>
+<p></p>
+
+<li> What went well? </li>
+
+<li >What went bad? </li>
+
+<li >What would you improve? </li>
+
 
 <h2>You</h2>
 <p></p>
