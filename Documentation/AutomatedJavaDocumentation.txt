@@ -1,0 +1,12 @@
+Java Documentation Tools
+
+Javadoc is a documentation generator created for the Java language for generating API documentation in HTML format from Java source code. 
+
+The standards on how to use JavaDoc can be found here:
+https://www.oracle.com/ie/technical-resources/articles/java/javadoc-tool.html
+
+An Introduction to JavaDoc Can be found here
+https://www.baeldung.com/javadoc
+
+Guide to JavaDoc on IntelliJ
+https://www.jetbrains.com/help/idea/working-with-code-documentation.html#add-new-comment

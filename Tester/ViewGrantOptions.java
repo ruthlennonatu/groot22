@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class ViewGrantOptions{
     public static void main(String[] args){
@@ -13,30 +13,24 @@ public class ViewGrantOptions{
         System.out.print("Enter an option from 1-5: ");
         int input = sc.nextInt();
 
-        getOptions(input);
+        getOption(input);
     }
 
-    void getOption(int input){
+    static String getOption(int input){
 
         switch(input){
             case 1:
-                System.out.println("Icecap grant option worth $100");
-                break;
+            	return "Icecap grant option worth $100";
             case 2:
-                System.out.println("Greenland grant option worth $500");
-                break;
+            	return "Greenland grant option worth $500";
             case 3:
-                System.out.println("Rainfall grant option worth $1000");
-                break;
+            	return "Rainfall grant option worth $1000";
             case 4:
-                System.out.println("Heatwave grant option worth $5000");
-                break;
+            	return "Heatwave grant option worth $5000";
             case 5:
-                System.out.println("Snowbird grant option worth $10000");
-                break;
+            	return "Snowbird grant option worth $10000";
             default:
-                System.out.println("Thanks for using our service.");
-                break;
+            	return "Thanks for using our service.";
         }
     }
 }

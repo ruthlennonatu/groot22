@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>groot22</name>
+	<name>GrootMoneyExchange</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,11 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-<<<<<<< HEAD
-			<id>1668604617081</id>
-=======
-			<id>1668540358404</id>
->>>>>>> a1b1536e5f2923286eee77643f03237b5e169935
+			<id>1668542801497</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
