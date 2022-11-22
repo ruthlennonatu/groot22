@@ -1,0 +1,18 @@
+Static Analysis of code
+
+PMD was ran on the CustomerInformation.java file and a series of flags that are colour coded
+
+It noted multiple issues with the provided code of the green and cyan level.
+2 of these noted issues included:
+The input stream should be closed when its use is complete. 
+Multiple variables can be defined as final and declaring local variables as final that do not change is more secure.
+
+SpotBug was ran on on a sample piece of code and 92 bugs were found, each of which was sectioned into levels of importance, these levels of importance include
+Scary
+Troubling
+Of Concern
+
+A scary bug that was noticed is that the database login was hardcoded, before the project is pushed to the public and has entered the testing stage this login information being
+hardcoded should be altered so that login information has to be provided each time by the user.
+
+A Screengrab of both of these bug report pages are available in this same folder as the text document.
