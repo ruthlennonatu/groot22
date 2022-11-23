@@ -1,0 +1,14 @@
+GitHub Actions
+
+GitHub Acions is a continuous integration and continuous delivery (CI/CD) platform that allows for the automation
+of builds, tests, and deployment pipelines.
+
+It makes it easy for the automation of all software workflows such as creating code reviews and branch management
+
+
+
+More information can be found with these links:
+
+https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+
+https://github.com/features/actions
