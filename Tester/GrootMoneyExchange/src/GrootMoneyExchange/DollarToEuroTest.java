@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import junit.framework.Assert;
 
-class GrootMoneyExchangeTester 
+class DollarToEuroTest
 {
 	
 	@Test

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.groot22.mavenproject.DollarToEuroTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in com.groot22.mavenproject.DollarToEuroTest
+testAdd(com.groot22.mavenproject.DollarToEuroTest)  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.AssertionError: Use assertEquals(expected, actual, delta) to compare floating-point numbers
+	at com.groot22.mavenproject.DollarToEuroTest.testAdd(DollarToEuroTest.java:16)
+
+testAdd2(com.groot22.mavenproject.DollarToEuroTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Use assertEquals(expected, actual, delta) to compare floating-point numbers
+	at com.groot22.mavenproject.DollarToEuroTest.testAdd2(DollarToEuroTest.java:22)
+
