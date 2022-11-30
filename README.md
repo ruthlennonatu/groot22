@@ -40,9 +40,8 @@ Week 8 You = week 12 <br>
 John Gallagher - L00152147
 
 # Rockstars
-<>Ciarán Aitken, Luke Cassidy, Mark Houstan, Paul Buchanan, William Browne, You Pengcheng
-<>
-<>
+Ciarán Aitken, Luke Cassidy, Mark Houstan, Paul Buchanan, William Browne, You Pengcheng
+
 
 # Project Deadline
 Refer to BB for deadlines
@@ -137,7 +136,7 @@ Slack is our primary communication method. Slack communication can be used at an
 # Agile way of working.
 If are assigned a job, take ownership of it, and keep it up to date. Stick to your agreed working patterns. Let the team know when you are late or going early. Keep JIRA board always updated. Update the Scrum Board as you progress the story i.e., don’t update at stand-up. Don't be afraid to ask for help. Don't be afraid to give constructive criticism if it is constructive. Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master. 
 
-Other Sprints will start Wednesdays at 11:00. The Scrum Master role rotates each week, the schedule is available on the on the process section slack and GitHub project board will be used for task management and planning. Each member of the team will work couple hours per week unless they are on vacation. Branching Strategy is each member will create new branch to work on and then merge back into main branch after it is checked from a member of the team.
+Other Sprints will start Wednesdays at 11:00. The Scrum Master role rotates each week, the schedule is available on the on the process section slack and GitHub project board will be used for task management and planning. Each member of the team will work couple hours per week unless they are on vacation. Branching Strategy is each member will create new branch to work on and then merge back into dev branch after it is checked from a member of the team. then the pruduct onwer will merge the dev branch into the main when it isd ready.
 
 # Estimating Story Points
 The team's velocity is calculated by the number of story points we achieve on average in the previous sprints.

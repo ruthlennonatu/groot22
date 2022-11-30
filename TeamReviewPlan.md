@@ -88,17 +88,25 @@ How well the project board is used and how we layout the level of difficulty/tim
 <h2>Ciaran</h2>
 
 <p>I created a simple view order java file taht just reads in the customers order number
-Then i updated the TeamReviewPlan.md to update info for review this week</p>
+
+Finally I created some basic code for the customer to remove an order by using an easy .remove
+
+Then i updated the TeamReviewPlan.md to update info for review this week
+</p>
 
 <li> What went well? 
-I found it easier commiting and pushing to git hub. </li>
+I found it easier commiting and pushing to git hub.
+
+Our team review went well im very confident on my teams ability in completing this assignment on time.</li>
 
 <li >What went bad? 
-Was hard to know what needed to be done to progress the project</li>
+Was hard to know what needed to be done to progress the project.
+
+Communication is needed to deletgate the work for better progression.</li>
 
 <li >What would you improve? 
 Communication with team so we can establish jobs between spints
-so we are better prepared to work on project during the week</li>
+so we are better prepared to work on project during the week.</li>
 
 <h2>William</h2>
 <p>I created a java file that allows customers to select what payment method they wish to
