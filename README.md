@@ -44,7 +44,7 @@ Ciarán Aitken, Luke Cassidy, Mark Houstan, Paul Buchanan, William Browne, You P
 
 
 # Project Deadline
-Refer to BB for deadlines
+Saturday, 24 December 2022 23:59
 
 # Project Specification
 The project will be a simple yet effective, clear, and concise design at the user level (customers, admins) 
@@ -100,6 +100,7 @@ Datastore for persistence
     Unit testing
     integration testing
     UA
+    maven 
 # Environments:
     staging and production
     tight configuration management for consistency and reproducibility
