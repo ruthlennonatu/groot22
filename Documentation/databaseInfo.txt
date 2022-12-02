@@ -1,0 +1,8 @@
+Advantages
+MySQL is more secure as it consists of a solid data security layer to protect sensitive data from intruders and passwords in MySQL are encrypted.
+MySQL is compatible with most of the operating systems, including Windows, Linux, NetWare, Novell, Solaris and other variations of UNIX.
+MySQL gives developers higher productivity by using views, Triggers and Stored procedures
+
+Disadvantages
+MySQL is not very efficient in handling very large databases.
+MySQL doesn’t have as good a developing and debugging tool as compared to paid databases.
