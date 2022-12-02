@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.groot22.mavenproject.AppTest" time="0.03" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.groot22.mavenproject.DollarToEuroTest" time="0.005" tests="2" errors="0" skipped="0" failures="2">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -58,5 +58,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.groot22.mavenproject.AppTest" time="0.01"/>
+  <testcase name="testAdd" classname="com.groot22.mavenproject.DollarToEuroTest" time="0.004">
+    <failure message="Use assertEquals(expected, actual, delta) to compare floating-point numbers" type="java.lang.AssertionError">java.lang.AssertionError: Use assertEquals(expected, actual, delta) to compare floating-point numbers
+	at com.groot22.mavenproject.DollarToEuroTest.testAdd(DollarToEuroTest.java:16)
+</failure>
+  </testcase>
+  <testcase name="testAdd2" classname="com.groot22.mavenproject.DollarToEuroTest" time="0">
+    <failure message="Use assertEquals(expected, actual, delta) to compare floating-point numbers" type="java.lang.AssertionError">java.lang.AssertionError: Use assertEquals(expected, actual, delta) to compare floating-point numbers
+	at com.groot22.mavenproject.DollarToEuroTest.testAdd2(DollarToEuroTest.java:22)
+</failure>
+  </testcase>
 </testsuite>

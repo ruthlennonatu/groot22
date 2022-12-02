@@ -1,0 +1,33 @@
+All java performance tools listed below are open source
+
+
+Performance Testing
+JMeter
+Created by Apache and is used for load and stress testing of Java Applications.
+Can be used on both static and dynamic resources and has extensions available to record and visualise 
+the produced data.
+https://jmeter.apache.org/
+
+
+Gatling
+Focuses on load testing. Can integrate with Maven, SBT, Gradle, and Jenkins.
+https://gatling.io/
+
+
+Performance Tuning
+Stagemonitor
+Can be used during development. Great for monitoring performance
+https://www.stagemonitor.org/
+
+Tracing tools
+
+OpenZipKin
+zipkin is a tracing system that allows for troubleshooting performance issues.
+Creates logs to help with locating issues with performance
+
+https://zipkin.io/
+
+
+
+All of the Tools Detailed above have paid alternatives that perform better. They wont be 
+used but it is important to know.
