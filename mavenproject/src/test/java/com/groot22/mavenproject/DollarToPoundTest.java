@@ -3,6 +3,7 @@ package com.groot22.mavenproject;
 import org.junit.Test;
 import org.junit.Assert;
 
+import static org.junit.Assert.assertTrue;
 
 public class DollarToPoundTest
 {
