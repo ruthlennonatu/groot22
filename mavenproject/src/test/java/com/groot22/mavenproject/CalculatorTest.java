@@ -10,7 +10,7 @@ import org.junit.Assert;
     
 
 
-class CalculatorTest {
+public class CalculatorTest {
 
     /**
      * Testing of the multiplying methods in the calculator class :-)
@@ -21,13 +21,13 @@ class CalculatorTest {
 
     @Test                                                 
     public void testMultiply() {
-        Assert.assertEquals(20, Calculator.multiply(4, 5));  
+        Assert.assertEquals(20, Calculator.multiply(4, 5),0.02);  
                 
     }
                                  
     @Test
     public void testMultiplyWithZero() {
-        Assert.assertEquals(0, Calculator.multiply(0, 5));
-        Assert.assertEquals(0, Calculator.multiply(5, 0));
+        Assert.assertEquals(0, Calculator.multiply(0, 5),0.02);
+        Assert.assertEquals(0, Calculator.multiply(5, 0),0.02);
     }
 }
