@@ -10,13 +10,13 @@ public class NumberMultiplierTest
 	@Test
     public void testAdd() 
 	{
-        Assert.assertEquals(12.0,NumberMultiplier.multiply(2));
+        Assert.assertEquals(12.0,NumberMultiplier.multiply(2),0.02);
     }
 	
 	@Test
     public void testAdd2() 
 	{
-        Assert.assertEquals(42.0,DollarToEuro.exchange(7));
+        Assert.assertEquals(42.0,DollarToEuro.exchange(7),0.02);
     }
 
 }
