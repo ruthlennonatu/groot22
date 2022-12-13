@@ -16,7 +16,7 @@ public class NumberMultiplierTest
 	@Test
     public void testAdd2() 
 	{
-        Assert.assertEquals(42.0,DollarToEuro.exchange(7),0.02);
+        Assert.assertEquals(42.0,NumberMultiplier.multiply(7),0.02);
     }
 
 }
