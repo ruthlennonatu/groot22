@@ -121,23 +121,6 @@ Accidentally pushed to wrong section but managed to delete and repush file witho
 
 <li >What would you improve? 
 Better understanding of what issues are critical and the overall progress of the project more elaborated on in the sprints and team meetings</li>
-=======
-<p></p>
-
-<li> What went well? </li>
-
-<li >What went bad? </li>
-
-<li >What would you improve? </li>
-
-<h2>William</h2>
-<p></p>
-
-<li> What went well? </li>
-
-<li >What went bad? </li>
-
-<li >What would you improve? </li>
 
 
 <h2>You</h2>
