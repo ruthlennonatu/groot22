@@ -79,9 +79,9 @@ jobs:
 #       # Download previous benchmark result from cache (if exists)
     - name: Download previous benchmark data
       uses: actions/cache@v1
-#       with:
-#         path: ./cache
-#         key: ${{ runner.os }}-benchmark
+      with:
+        path: ./cache
+        key: ${{ runner.os }}-benchmark
       # Run `github-action-benchmark` action
     - name: Store benchmark result
       uses: benchmark-action/github-action-benchmark@v1
