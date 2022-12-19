@@ -1,0 +1,20 @@
+name: Deploy Javadoc
+
+on:
+  push:
+    branches:
+      - dev
+      
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy JavaDoc 🚀
+        uses: javadoc.yml@v2.3.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          javadoc-branch: dev
+          java-version: 17
+          target-folder: mavenproject 
+          project: maven

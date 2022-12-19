@@ -18,5 +18,11 @@ public class DollarToEuroTest
 	{
         Assert.assertEquals(97.00,DollarToEuro.exchange(100),0.02);
     }
+	
+	@Test
+    public void testAdd3() 
+	{
+        Assert.assertEquals(48.50,DollarToEuro.exchange(50),0.02);
+    }
 
 }
