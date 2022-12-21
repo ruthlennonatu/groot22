@@ -1,6 +1,17 @@
 import java.util.*;
 
+/**
+ * Represents The System that will be used to take in customer Information.
+ * Variables
+ * Name
+ * Grant
+ * Values
+ */
 public class CustomerInformation {
+
+    /**
+     * Static void to implement quickly for testing
+     */
     public static void main(String[] args){
         String name;
         String grant;
